@@ -1,5 +1,5 @@
-# Color Memory Project
-
+# Color Memory Project dAYUm
+kk
 Game inspired by Simon, where users can test their memory skills.
 
 ![Color Memory Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-color-memory/blob/main/project-preview.png?raw=true)
