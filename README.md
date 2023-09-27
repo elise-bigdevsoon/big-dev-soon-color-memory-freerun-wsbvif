@@ -12,7 +12,7 @@ Level up your coding skills by building real-world projects with professional de
 
 ## Project brief
 
-Embark on a journey with the **Color Memory** game, a vibrant tribute to the iconic Simon game. Engage and challenge users with an intricate memory test, all set within a vividly designed, responsive, and captivating interactive interface.
+Embark on a journey with the **Color Memory** game, a vibrant tribute to the iconic Simon game. Engage and challenge users with an intricate memory test, all set within a vividly designed, responsive, and captivDONEating interactive interface.
 
 ### What you will learn
 
