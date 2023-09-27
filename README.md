@@ -10,7 +10,7 @@ Create code that matters! 🤩
 
 Level up your coding skills by building real-world projects with professional designs.
 
-## Project brief
+## Project brief;
 
 Embark on a journey with the **Color Memory** game, a vibrant tribute to the iconic Simon game. Engage and challenge users with an intricate memory test, all set within a vividly designed, responsive, and captivating interactive interface.
 
